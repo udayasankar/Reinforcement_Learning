@@ -10,4 +10,6 @@ https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-trainin
 http://incompleteideas.net/book/RLbook2020.pdf
 
 
+https://netflixtechblog.com/ml-platform-meetup-infra-for-contextual-bandits-and-reinforcement-learning-4a90305948ef
+
 
