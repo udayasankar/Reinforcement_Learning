@@ -7,4 +7,7 @@ https://huyenchip.com/2023/05/02/rlhf.html
 https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training
 
 
+http://incompleteideas.net/book/RLbook2020.pdf
+
+
 
