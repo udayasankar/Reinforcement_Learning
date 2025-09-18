@@ -12,6 +12,9 @@ http://incompleteideas.net/book/RLbook2020.pdf
 
 https://netflixtechblog.com/ml-platform-meetup-infra-for-contextual-bandits-and-reinforcement-learning-4a90305948ef
 
+[
+RLHF Library by Nathan Lambert : https://rlhfbook.com/library
+
 
 
 
