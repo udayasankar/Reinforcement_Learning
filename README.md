@@ -18,7 +18,7 @@ RLHF Library by Nathan Lambert : https://rlhfbook.com/library
 
 MIT Reinforcement learning vedio: https://www.youtube.com/watch?v=to-lHJfK4pw
 
-Steve Brunton : https://www.youtube.com/watch?v=i7q8bISGwMQ&t=110s
+Steve Brunton reinforcement learning : https://www.youtube.com/watch?v=i7q8bISGwMQ&t=110s
 
 
 
