@@ -16,6 +16,7 @@ https://netflixtechblog.com/ml-platform-meetup-infra-for-contextual-bandits-and-
 
 RLHF Library by Nathan Lambert : https://rlhfbook.com/library
 
+MIT Reinforcement learning vedio: https://www.youtube.com/watch?v=to-lHJfK4pw
 
 
 
