@@ -21,5 +21,9 @@ MIT Reinforcement learning vedio: https://www.youtube.com/watch?v=to-lHJfK4pw
 Steve Brunton reinforcement learning : https://www.youtube.com/watch?v=i7q8bISGwMQ&t=110s
 
 
+Papers:
+
+https://arxiv.org/pdf/2509.08827
+
 
 
