@@ -20,6 +20,10 @@ MIT Reinforcement learning vedio: https://www.youtube.com/watch?v=to-lHJfK4pw
 
 Steve Brunton reinforcement learning : https://www.youtube.com/watch?v=i7q8bISGwMQ&t=110s
 
+RLHF for training Language Models: https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbUan-KlgwKN2CycndyKXXS
+
+Reinforcement Learning for LLMs : https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbUan-KlgwKN2CycndyKXXS
+
 
 Papers:
 
