@@ -1,5 +1,7 @@
 # Reinforcement_Learning
 
+Reinforcement Learning and Stochastic Optimization: A unified framework for stochastic optimization : https://castle.princeton.edu/rlso/
+
 Hugging Face: https://huggingface.co/learn/deep-rl-course/unit0/introduction
 
 Deep RL bootcamp: https://sites.google.com/view/deep-rl-bootcamp/lectures
