@@ -29,7 +29,7 @@ RLHF for training Language Models: https://www.youtube.com/playlist?list=PLs8w1C
 Reinforcement Learning for LLMs : https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbUan-KlgwKN2CycndyKXXS
 
 
-<h1> Papers: <h1></h1>
+<h1> Papers: </h1>
 
 https://arxiv.org/pdf/2509.08827
 
