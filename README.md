@@ -1,9 +1,5 @@
 # Reinforcement_Learning
 
-Training language models to follow instructions with human feedback : https://arxiv.org/pdf/2203.02155
-
-Re as on i ng Ban k: Scaling Agent Self-Evolving with Reasoning Memory : https://arxiv.org/pdf/2509.25140
-
 A Course in Reinforcement Learning  : https://web.mit.edu/dimitrib/www/RLCOURSECOMPLETE%202ndEDITION.pdf#page=7.34
 
 Reinforcement Learning and Stochastic Optimization: A unified framework for stochastic optimization : https://castle.princeton.edu/rlso/
@@ -33,11 +29,17 @@ RLHF for training Language Models: https://www.youtube.com/playlist?list=PLs8w1C
 Reinforcement Learning for LLMs : https://www.youtube.com/playlist?list=PLs8w1Cdi-zvbUan-KlgwKN2CycndyKXXS
 
 
-Papers:
+<h1> Papers: <h1></h1>
 
 https://arxiv.org/pdf/2509.08827
 
 https://arxiv.org/pdf/2509.08827
+
+DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning : https://www.arxiv.org/pdf/2511.22570
+
+Training language models to follow instructions with human feedback : https://arxiv.org/pdf/2203.02155
+
+Re as on i ng Ban k: Scaling Agent Self-Evolving with Reasoning Memory : https://arxiv.org/pdf/2509.25140
 
 
 
