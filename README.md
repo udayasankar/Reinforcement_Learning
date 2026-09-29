@@ -2,6 +2,8 @@
 
 Reinforcement learning : https://lilianweng.github.io/posts/2024-11-28-reward-hacking/
 
+Meta reinforcement learning : https://lilianweng.github.io/posts/2019-06-23-meta-rl/
+
 A Course in Reinforcement Learning  : https://web.mit.edu/dimitrib/www/RLCOURSECOMPLETE%202ndEDITION.pdf#page=7.34
 
 Reinforcement Learning and Stochastic Optimization: A unified framework for stochastic optimization : https://castle.princeton.edu/rlso/
